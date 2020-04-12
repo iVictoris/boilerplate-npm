@@ -1,10 +1,6 @@
 {
     "name": "fcc-learn-npm-package-json",
-    "author": {
-        "name": "Victor Tran",
-        "github": "ivictoris",
-        "email": "victor.tran@tempestas.io"
-    },
+    "author": "victor tran",
     "dependencies": {
         "express": "^4.14.0"
     },
